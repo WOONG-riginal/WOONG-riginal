@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+  p{
+    font-size: '40px';
+  }
+</style>
 
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
