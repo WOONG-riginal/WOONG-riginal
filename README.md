@@ -7,6 +7,7 @@
     <li>항상 새로운 지식을 탐구하고, 논리를 바탕으로 이해하려는 노력을 이어가고 있습니다.</li>
     <li>그동안 여러 협업의 경험을 통해 <strong>타인의 의견 및 피드백</strong>을 올바르게 이해하고 수렴하는 것을 배웠습니다.</li> 
     <li>전문성과 창의성을 바탕으로 사회에 선한 영향을 주어 긍정적인 변화를 이끌어내는 <strong>전문가로 성장</strong>하기 원합니다.</li>
+    <li><a href='https://drive.google.com/file/d/182i2Qv7DAoMtBC2sl5KEisOzuKMfZ1ZT/view?usp=drive_link'>이력서 확인하기</a></li>
 </ul>
 
 
